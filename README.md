@@ -1,2 +1,2 @@
-# NewProject
-New Project
+# PeopleSoft-Project
+PeopleSoft Project
